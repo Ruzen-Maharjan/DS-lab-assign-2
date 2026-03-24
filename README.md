@@ -11,3 +11,13 @@ The data used in this project is taken from World Bank Open Data:
 - Population: https://data.worldbank.org/indicator/SP.POP.TOTL  
 - Agricultural Land: https://data.worldbank.org/indicator/AG.LND.AGRI.K2  
 
+# Python methods used for this report
+- Data cleaning and preprocessing
+- Correlation analysis
+- Rate of change calculation
+- Bootstrapping
+- Data visualization using multiple graphs like line graphs, scatter plot, bar chart.
+
+# Files included
+- DSLAB 2.py (Python code from spyder)
+- CSV files of all three data used.
