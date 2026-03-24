@@ -100,7 +100,7 @@ for country in countries:
 
 
 # -----------------------------
-# BOOTSTRAPPING
+# Simple Bootstrapping to check consistency
 # -----------------------------
 china_co2 = co2_df.loc["China"].dropna()
 china_agri = agri_per_cap.loc["China"].dropna()
