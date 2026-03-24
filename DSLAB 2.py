@@ -8,8 +8,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-# -----------------------------
-# FUNCTION
+#-----------------------------
+# function to load and clean the data
 # -----------------------------
 def load_worldbank_data(filename, skiprows=0):
 
@@ -29,7 +29,7 @@ def load_worldbank_data(filename, skiprows=0):
 
 
 # -----------------------------
-# LOAD DATA
+# Loading population, agricultural land and co2 datasets
 # -----------------------------
 pop_df, pop_t = load_worldbank_data("API_SP.POP.TOTL_DS2_en_csv_v2_84031.csv")
 
