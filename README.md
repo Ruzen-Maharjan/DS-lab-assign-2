@@ -21,3 +21,6 @@ The data used in this project is taken from World Bank Open Data:
 # Files included
 - DSLAB 2.py (Python code from spyder)
 - CSV files of all three data used.
+
+# Conclusion
+This report analyzes that C02 emissions generally increases with population, While relationship with agricultural land varies across countries. Developed countries generally show slower growth compared to developing countries.
